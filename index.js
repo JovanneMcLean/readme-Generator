@@ -29,6 +29,9 @@ ${answers.contributing}
 ## Tests
 ${answers.tests}
 
+## Questions
+For questions about the project, please contact [${answers.github}](https://github.com/${answers.github}).
+
 ## License
 ${answers.license}
 `;
